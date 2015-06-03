@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TheActivityClass/Lab2_ActivityLab/Lab2_ActivityLab.iml" filepath="$PROJECT_DIR$/TheActivityClass/Lab2_ActivityLab/Lab2_ActivityLab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TheActivityClass/Lab2_ActivityLabTest/Lab2_ActivityLabTest.iml" filepath="$PROJECT_DIR$/TheActivityClass/Lab2_ActivityLabTest/Lab2_ActivityLabTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Intents/Lab3a_IntentsLab/Lab3a_IntentsLab.iml" filepath="$PROJECT_DIR$/Intents/Lab3a_IntentsLab/Lab3a_IntentsLab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Intents/Lab3a_IntentsLabTest/Lab3a_IntentsLabTest.iml" filepath="$PROJECT_DIR$/Intents/Lab3a_IntentsLabTest/Lab3a_IntentsLabTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Intents/Lab3a_MyBrowser/Lab3a_MyBrowser.iml" filepath="$PROJECT_DIR$/Intents/Lab3a_MyBrowser/Lab3a_MyBrowser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Permissions/Lab3b_DangerousApp/Lab3b_DangerousApp.iml" filepath="$PROJECT_DIR$/Permissions/Lab3b_DangerousApp/Lab3b_DangerousApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Permissions/Lab3b_PermissionsLab/Lab3b_PermissionsLab.iml" filepath="$PROJECT_DIR$/Permissions/Lab3b_PermissionsLab/Lab3b_PermissionsLab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Permissions/Lab3b_PermissionsLabTest/Lab3b_PermissionsLabTest.iml" filepath="$PROJECT_DIR$/Permissions/Lab3b_PermissionsLabTest/Lab3b_PermissionsLabTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fragments/Lab3c_FragmentsLab/Lab3c_FragmentsLab.iml" filepath="$PROJECT_DIR$/Fragments/Lab3c_FragmentsLab/Lab3c_FragmentsLab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fragments/Lab3c_FragmentsLabTestPhone/Lab3c_FragmentsLabTestPhone.iml" filepath="$PROJECT_DIR$/Fragments/Lab3c_FragmentsLabTestPhone/Lab3c_FragmentsLabTestPhone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fragments/Lab3c_FragmentsLabTestTablet/Lab3c_FragmentsLabTestTablet.iml" filepath="$PROJECT_DIR$/Fragments/Lab3c_FragmentsLabTestTablet/Lab3c_FragmentsLabTestTablet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UserInterface/Lab4_UILabs/Lab4_UILabs.iml" filepath="$PROJECT_DIR$/UserInterface/Lab4_UILabs/Lab4_UILabs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UserInterface/Lab4_UILabsTest/Lab4_UILabsTest.iml" filepath="$PROJECT_DIR$/UserInterface/Lab4_UILabsTest/Lab4_UILabsTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AsyncTask/Lab5-AsyncTaskLab/Lab5-AsyncTaskLab.iml" filepath="$PROJECT_DIR$/AsyncTask/Lab5-AsyncTaskLab/Lab5-AsyncTaskLab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AsyncTask/Lab5-AsyncTaskLabTest/Lab5-AsyncTaskLabTest.iml" filepath="$PROJECT_DIR$/AsyncTask/Lab5-AsyncTaskLabTest/Lab5-AsyncTaskLabTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Notifications/Lab6_NotificationsLab/Lab6_NotificationsLab.iml" filepath="$PROJECT_DIR$/Notifications/Lab6_NotificationsLab/Lab6_NotificationsLab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Notifications/Lab6_NotificationsLabTest/Lab6_NotificationsLabTest.iml" filepath="$PROJECT_DIR$/Notifications/Lab6_NotificationsLabTest/Lab6_NotificationsLabTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GraphicsAndTouch/Lab7_GraphicsLab/Lab7_GraphicsLab.iml" filepath="$PROJECT_DIR$/GraphicsAndTouch/Lab7_GraphicsLab/Lab7_GraphicsLab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GraphicsAndTouch/Lab7_GraphicsLabTest/Lab7_GraphicsLabTest.iml" filepath="$PROJECT_DIR$/GraphicsAndTouch/Lab7_GraphicsLabTest/Lab7_GraphicsLabTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Location/Lab8_LocationLab/Lab8_LocationLab.iml" filepath="$PROJECT_DIR$/Location/Lab8_LocationLab/Lab8_LocationLab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Location/Lab8_LocationLabTest/Lab8_LocationLabTest.iml" filepath="$PROJECT_DIR$/Location/Lab8_LocationLabTest/Lab8_LocationLabTest.iml" />
+    </modules>
+  </component>
+</project>
