@@ -2,6 +2,46 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63fb60dd-15b0-457c-a204-ddbaf22a122a" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TheActivityClass/Lab2_ActivityLab/Lab2_ActivityLab.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TheActivityClass/Lab2_ActivityLabTest/Lab2_ActivityLabTest.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Intents/Lab3a_IntentsLab/Lab3a_IntentsLab.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Intents/Lab3a_IntentsLabTest/Lab3a_IntentsLabTest.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Intents/Lab3a_MyBrowser/Lab3a_MyBrowser.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Permissions/Lab3b_DangerousApp/Lab3b_DangerousApp.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Permissions/Lab3b_PermissionsLab/Lab3b_PermissionsLab.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Permissions/Lab3b_PermissionsLabTest/Lab3b_PermissionsLabTest.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Fragments/Lab3c_FragmentsLab/Lab3c_FragmentsLab.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Fragments/Lab3c_FragmentsLabTestPhone/Lab3c_FragmentsLabTestPhone.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Fragments/Lab3c_FragmentsLabTestTablet/Lab3c_FragmentsLabTestTablet.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UserInterface/Lab4_UILabs/Lab4_UILabs.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UserInterface/Lab4_UILabsTest/Lab4_UILabsTest.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AsyncTask/Lab5-AsyncTaskLab/Lab5-AsyncTaskLab.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AsyncTask/Lab5-AsyncTaskLabTest/Lab5-AsyncTaskLabTest.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Notifications/Lab6_NotificationsLab/Lab6_NotificationsLab.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Notifications/Lab6_NotificationsLabTest/Lab6_NotificationsLabTest.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GraphicsAndTouch/Lab7_GraphicsLab/Lab7_GraphicsLab.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GraphicsAndTouch/Lab7_GraphicsLabTest/Lab7_GraphicsLabTest.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Location/Lab8_LocationLab/Lab8_LocationLab.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Location/Lab8_LocationLabTest/Lab8_LocationLabTest.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/android_support_v4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/android_support_v41.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/robotium_solo_5_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/robotium_solo_5_3_11.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/robotium_solo_5_3_12.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/robotium_solo_5_3_13.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/robotium_solo_5_3_14.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/robotium_solo_5_3_15.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/robotium_solo_5_3_16.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/robotium_solo_5_3_17.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/robotium_solo_5_3_18.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/robotium_solo_5_3_19.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Intents/Lab3a_IntentsLab/src/course/labs/intentslab/ActivityLoaderActivity.java" afterPath="$PROJECT_DIR$/Intents/Lab3a_IntentsLab/src/course/labs/intentslab/ActivityLoaderActivity.java" />
     </list>
     <ignored path="coursera-android-labs.iws" />
@@ -27,8 +67,8 @@
       <file leaf-file-name="ActivityLoaderActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Intents/Lab3a_IntentsLab/src/course/labs/intentslab/ActivityLoaderActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.28052804">
-              <caret line="110" column="12" selection-start-line="110" selection-start-column="12" selection-end-line="110" selection-end-column="12" />
+            <state vertical-scroll-proportion="0.44884488">
+              <caret line="109" column="8" selection-start-line="109" selection-start-column="8" selection-end-line="109" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -594,8 +634,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Intents/Lab3a_IntentsLab/src/course/labs/intentslab/ActivityLoaderActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.28052804">
-          <caret line="110" column="12" selection-start-line="110" selection-start-column="12" selection-end-line="110" selection-end-column="12" />
+        <state vertical-scroll-proportion="0.44884488">
+          <caret line="109" column="8" selection-start-line="109" selection-start-column="8" selection-end-line="109" selection-end-column="8" />
           <folding />
         </state>
       </provider>
