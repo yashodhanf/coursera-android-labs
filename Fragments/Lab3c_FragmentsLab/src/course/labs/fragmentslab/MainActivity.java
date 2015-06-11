@@ -30,7 +30,6 @@ public class MainActivity extends Activity implements
 			FragmentManager fragmentManager = getFragmentManager();
 			FragmentTransaction fragmentTransaction = fragmentManager.beginTransaction();
 			fragmentTransaction.add(R.id.fragment_container, mFriendsFragment);
-			//fragmentTransaction.addToBackStack(null);
 			fragmentTransaction.commit();
 
 
