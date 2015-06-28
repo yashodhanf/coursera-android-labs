@@ -48,6 +48,7 @@ public class ToDoManagerActivity extends ListActivity {
 
 		// TODO - Inflate footerView for footer_view.xml file
 		TextView footerView = (TextView)getLayoutInflater().inflate(R.layout.footer_view, null);
+		getListView().addFooterView(footerView);
 
 
 		// TODO - Attach Listener to FooterView
@@ -61,6 +62,7 @@ public class ToDoManagerActivity extends ListActivity {
 		});
 
 		// TODO - Attach the adapter to this ListActivity's ListView
+
 		getListView().setAdapter(mAdapter);
 	}
 
@@ -76,7 +78,6 @@ public class ToDoManagerActivity extends ListActivity {
 		if (requestCode == ADD_TODO_ITEM_REQUEST && resultCode == RESULT_OK){
 			ToDoItem toDoItem = new ToDoItem(data);
 			mAdapter.add(toDoItem);
-
 		}
 	}
 
