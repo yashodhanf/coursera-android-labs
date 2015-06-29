@@ -35,13 +35,9 @@ public class DownloaderTaskFragment extends Fragment {
 		
 		// TODO: Retrieve arguments from DownloaderTaskFragment
 		// Prepare them for use with DownloaderTask. 
-		ArrayList<Integer> ids = getArguments().getIntegerArrayList("friends");
-        Integer[] resourceIDS = new Integer[3];
-		int i = 0;
-		for (Integer id : ids
-			 ) {
-			resourceIDS[i++] = id;
-		}
+		Integer[] resourceIDS = new Integer[3];
+		getArguments().getIntegerArrayList("friends").toArray(resourceIDS);
+
 
 		// TODO: Start the DownloaderTask 
 		downloaderTask.execute(resourceIDS);
