@@ -9,8 +9,10 @@ import java.util.ArrayList;
 import android.app.Activity;
 import android.app.Fragment;
 import android.content.Context;
+import android.graphics.Bitmap;
 import android.os.AsyncTask;
 import android.os.Bundle;
+import android.widget.ProgressBar;
 
 public class DownloaderTaskFragment extends Fragment {
 
@@ -28,17 +30,21 @@ public class DownloaderTaskFragment extends Fragment {
 		setRetainInstance(true);
 		
 		// TODO: Create new DownloaderTask that "downloads" data
-
+		DownloaderTask downloaderTask = new DownloaderTask();
         
 		
 		// TODO: Retrieve arguments from DownloaderTaskFragment
 		// Prepare them for use with DownloaderTask. 
+		ArrayList<Integer> ids = getArguments().getIntegerArrayList("friends");
+        Integer[] resourceIDS = new Integer[3];
+		int i = 0;
+		for (Integer id : ids
+			 ) {
+			resourceIDS[i++] = id;
+		}
 
-        
-        
-        
 		// TODO: Start the DownloaderTask 
-		
+		downloaderTask.execute(resourceIDS);
         
 
 	}
@@ -73,21 +79,17 @@ public class DownloaderTaskFragment extends Fragment {
 	// out). Ultimately, it must also pass newly available data back to 
 	// the hosting Activity using the DownloadFinishedListener interface.
 
-//	public class DownloaderTask extends ... {
-	
+	public class DownloaderTask extends AsyncTask<Integer[], Integer, String[]> {
+		@Override
+		protected String[] doInBackground(Integer[]... resourceIDparam) {
+			String[] result = downloadTweets(resourceIDparam[0]);
+			return  result;
+		}
 
-    
-    
-    
-    
-    
-    
-    
-        // TODO: Uncomment this helper method
+		// TODO: Uncomment this helper method
 		// Simulates downloading Twitter data from the network
 
-        /*
-         private String[] downloadTweets(Integer resourceIDS[]) {
+		private String[] downloadTweets(Integer resourceIDS[]) {
 			final int simulatedDelay = 2000;
 			String[] feeds = new String[resourceIDS.length];
 			try {
@@ -124,7 +126,13 @@ public class DownloaderTaskFragment extends Fragment {
 
 			return feeds;
 		}
-         */
+
+		@Override
+		protected void onPostExecute(String[] result) {
+			mCallback.notifyDataRefreshed(result);
+
+		}
+	}
 
 
     
